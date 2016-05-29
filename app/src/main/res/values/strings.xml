@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Calculadora</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Config..</string>
+    <string name="title_activity_calculate_variable">Calculadora</string>
+    <string name="lblTitle">Calculadora</string>
+    <string name="lblValue1">Valor 1:</string>
+    <string name="lblValue2">Valor 2:</string>
+    <string name="lblResult">Resultado:</string>
+    <string name="btnSum">+</string>
+    <string name="btnMinus">-</string>
+    <string name="btnMultiple">*</string>
+    <string name="btnDivide">/</string>
+
+</resources>
